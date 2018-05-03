@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PendingIntentSample</string>
+    <string name="description">Notification Test</string>
+</resources>
